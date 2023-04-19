@@ -1,0 +1,12 @@
+G:\ecommerce Framework\src\test\java\testBase\BaseClass.java
+G:\ecommerce Framework\src\test\java\pageObjects\AccountRegisterationPage.java
+G:\ecommerce Framework\src\test\java\pageObjects\BasePage.java
+G:\ecommerce Framework\src\test\java\pageObjects\LoginPage.java
+G:\ecommerce Framework\src\test\java\utilities\ExtentReportUtility.java
+G:\ecommerce Framework\src\test\java\pageObjects\HomePage.java
+G:\ecommerce Framework\src\test\java\testCases\TC_001_AccountRegistrationTest.java
+G:\ecommerce Framework\src\test\java\testCases\TC_003_LoginDDT.java
+G:\ecommerce Framework\src\test\java\utilities\DataProviders.java
+G:\ecommerce Framework\src\test\java\pageObjects\MyAccountPage.java
+G:\ecommerce Framework\src\test\java\testCases\TC_002_loginTest.java
+G:\ecommerce Framework\src\test\java\utilities\ExcelUtiltity.java
